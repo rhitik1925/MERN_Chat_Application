@@ -47,7 +47,7 @@
 ![create_group](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689145950/afzfrs7dxuxij2z24vgy.png)
 
 **Group Information**
-![group_information](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689145976/bd8wyctt2tw4ukgwuoht.png)
+![group_information](https://media-hosting.imagekit.io//3cd16042d5bb4080/GroupInfo.png?Expires=1832524384&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=h30CQRXxA7LHGnB5gVKLvLHVXdkCk~q9NNTUTIFGc60QVXz69HTxxQqbMSYO0C0MQgRX2JbvqeJlaVpPxupOkaVBv4vwjs7kaUhSNr5TY2gHRqr4HBhEC9qwdHi2Vq-tX6qZ3EiO3h21nhztlxee-8PuLL01cYlWiSsaAHP6g6AQE5pu~588TbxPmEgMjKQNXou3H5K2u5yhSjFFpJ7vynxH-AMuMSGmEcHnVAtKtQhdiwccRJXnmQqXhtzEDBFWe4nxCON4jSOTzChSwk~t3T0F8k5j6xk4V45MYuUJkkjz8IHfpQnC0d5Bfh4FvZIa4zf-zvpbd2zRv-8M8SBuVw__)
 
 **Group Admin Options**
 ![group_admin_option](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689146029/rbkuo9dgrym9y3ayymz4.png)
