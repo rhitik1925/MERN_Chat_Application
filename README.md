@@ -50,7 +50,7 @@
 ![group_information](https://media-hosting.imagekit.io//3cd16042d5bb4080/GroupInfo.png?Expires=1832524384&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=h30CQRXxA7LHGnB5gVKLvLHVXdkCk~q9NNTUTIFGc60QVXz69HTxxQqbMSYO0C0MQgRX2JbvqeJlaVpPxupOkaVBv4vwjs7kaUhSNr5TY2gHRqr4HBhEC9qwdHi2Vq-tX6qZ3EiO3h21nhztlxee-8PuLL01cYlWiSsaAHP6g6AQE5pu~588TbxPmEgMjKQNXou3H5K2u5yhSjFFpJ7vynxH-AMuMSGmEcHnVAtKtQhdiwccRJXnmQqXhtzEDBFWe4nxCON4jSOTzChSwk~t3T0F8k5j6xk4V45MYuUJkkjz8IHfpQnC0d5Bfh4FvZIa4zf-zvpbd2zRv-8M8SBuVw__)
 
 **Group Admin Options**
-![group_admin_option](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689146029/rbkuo9dgrym9y3ayymz4.png)
+![group_admin_option](https://media-hosting.imagekit.io//15c507e82f6b40a2/GroupAdmin.png?Expires=1832524533&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=YeIXMEFld2GiHZt98xfeblUxr7ZdqVuTJnRr~8OoWMpW0eWdvB3MT~RlOyp3xbpqkcnxvls7bS10czbYNC1PZhwKU40eBygLJf33j6R-EPdD--qSlIuByg3b-F36AKBosEWMafvRwEtm1HEoU4NGzdRljWnZ9lo8LNizyDqNWEUXlhjUxF98MMxzHUtqqGVgc9XEIiAu5VtY-sqV4s6CM-KelsXaeEpZ5-TD1G1AJ6of5b1sHqxAR-nGYCpMlImID6oRrQs5rafR5e8mW63Wzb5ZU9V1PPPsYClb3HWk-SDoAAa8K~u9w9rPFxixpxeg3nvzNkp-WugP5MHBLgBkvQ__)
 
 **Change Group Name Only For Admin**
 ![rename](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689146017/da8y031jf7twpxlp2ipy.png)
