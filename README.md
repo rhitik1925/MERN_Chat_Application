@@ -56,7 +56,7 @@
 ![rename](https://media-hosting.imagekit.io//c5003c9b974242b8/ChangeGroupName.png?Expires=1832524776&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=lj8GiqcHK5o8k5GpszVBcThzoygxaoxaVQB~pqIPyivHc6qbXZYkCzmbEqCDn3A~zikabc1JwEAAUC63VNE6BfHso7Zji~Fg9WNs5wt~EWB3POCUzmEdHJJ1d5qP7JrOYOkegthk4akXDTeY56t-M5P1v095hpFFvV01NEr7wEZVXA98HIue1Qooohx1T4gYXVwz9pXKC6kdxzffc~bC9-Bx0IWmHrwG8Cay87Hr0KolWoXXduQqAUFtyehIrUkcbfVj2vODhAOAFMGqZ-XA5~EwO42H6RVpyseWuMzMl-5kx1ScYFbpvAhbLwXmWFRpr2KKG6X~kt6KDi-kbvDoKA__)
 
 **Remove User From Group Only For Admin**
-![remove_user](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689146005/ymitbkdkz2mlfvrb9gvl.png)
+![remove_user](https://media-hosting.imagekit.io//a529899bbe464df0/Remove.png?Expires=1832524856&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Jog9Hl4V6wdn1PNuqzsfz3ogj8Fl-QcSe6J9VqN32Qfh~VT25~7ztf~LCV~XxXPpsT0UYDF-p7rwWouJnckUEisnZuBiIkPbu5ZAaildK9Ej7QERNQvlQ6xssZStQl-sihRrqQK3ho6DnQc6pQR7RfEQ1uV1RvTvcgRP0vrmUg3DzIrRxIV47I8i7iG5NRx9pOFlvv-aiaIfdmKGTi-1a5B3rFQ8s1to~hidWONBP14Z9xfbzEpE811rQ0yHkrjFxHhzAi4LDoTJng5Ts7yPlK-W4VSv6yupKV9cCZV1c2~Xm-6m5LoxmRSSyysznbY9zbM6HgnZx0GpTHTWUwi7Ow__)
 
 **Add Users To Group Only For Admin**
 ![Add_user](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1690197588/lehnw0hfqfnxu8ktajys.png)
